@@ -15,5 +15,6 @@
 
 რესურსები კარგი კითხვების დასასმელად:
 
+- https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/
 - http://catb.org/~esr/faqs/smart-questions.html
 - http://maxo127.narod.ru/Geo/Articles/smart-questions_ge.html
